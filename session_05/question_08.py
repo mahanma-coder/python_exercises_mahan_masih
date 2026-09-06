@@ -46,17 +46,17 @@ for d in t_l:
         cw = w
         m_r_w = d
 
-print("Total characters:", characters)
-print("Total words:", t_w)
-print("Total letters:", letters)
-print("Total digits:", digits)
-print("Total spaces:", spaces)
-print("Total uppercase:", uppercase)
-print("Total lowercase:", lowercase)
-print("Longest word:", longest)
-print("Shortest word:", shortest)
-print("Most repeated character:", m_r_c)
-print("Most repeated word:", m_r_w)      
+print('Total characters:', characters)
+print('Total words:', t_w)
+print('Total letters:', letters)
+print('Total digits:', digits)
+print('Total spaces:', spaces)
+print('Total uppercase:', uppercase)
+print('Total lowercase:', lowercase)
+print('Longest word:', longest)
+print('Shortest word:', shortest)
+print('Most repeated character:', m_r_c)
+print('Most repeated word:', m_r_w)      
     
     
     
